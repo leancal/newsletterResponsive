@@ -3,6 +3,8 @@
 Proyecto Newsletter Responsive
 Este es un proyecto de Newsletter Responsive desarrollado con HTML y CSS utilizando la técnica de Flexbox.
 
+Verlo en: https://leancal.github.io/newsletterResponsive/
+
 # Descripción
 
 El newsletter fue diseñado con una estructura de una sola columna y utilizando Flexbox para garantizar una adaptación adecuada a los diferentes dispositivos y pantallas. Se incorporaron imágenes, texto y enlaces de manera atractiva y funcional para llamar la atención de los usuarios y ofrecer una experiencia satisfactoria.
